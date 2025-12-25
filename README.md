@@ -6,8 +6,14 @@ Welcome to the **Full Stack Developer Cohort** by **ChaiCode**!
 This program is designed to take you from foundational web concepts to deploying full-stack applications, including AI integration.
 
 <p align="center">
-  <img alt="ChaiCode Logo" width="400" height="330" alt="image" src="https://github.com/user-attachments/assets/f8e4d3e9-68fb-4b9c-946c-6a85eda1ea6e" />
+  <img 
+    src="https://github.com/user-attachments/assets/b452fccc-8ccb-49d1-9c89-9f2463260509" 
+    alt="ChaiCode Logo" 
+    width="400" 
+    height="330" 
+  />
 </p>
+
 
 ## 📖 Learning Roadmap
 
