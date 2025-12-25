@@ -2,19 +2,19 @@
 // You just need to implement the remainingApples function
 function remainingApples(totalApples, givenAway) {
   // Return totalApples minus givenAway
-  return totalApples - givenAway
+  return totalApples - givenAway;
 }
-remainingApples(20, 5)
+remainingApples(20, 5);
 
 // Please don't remove the code below
-const readline = require('readline');
+const readline = require("readline");
 
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
 
-rl.on('line', (input) => {
+rl.on("line", (input) => {
   // Parse input (expected to be JSON string format),
   // which should contain totalApples and givenAway
   const { totalApples, givenAway } = JSON.parse(input);
@@ -26,4 +26,3 @@ rl.on('line', (input) => {
   process.stdout.write(JSON.stringify(result));
 });
 // Please don't remove the code above
-
